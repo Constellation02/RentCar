@@ -41,8 +41,14 @@ Con este proyecto los clientes podran elegir facilmente su auto para rentarlo.
 - dar un clip en la parte desbloquear y luego en aceptar. pd: debe hacer eso con todos los documentos .rex.
 - por ultimo habrir directamente en su visual y puede utilizarlo sin problema. pd: recuerde tener la base de dato conectada.
 
-## :bulb: Nota
-Solo en se muestran imagenes de la parte editar y borrar en el Carregistration.cs porque al final todos tienen lo mismo y se nos hacia innecesarior agregarlo.
+## :bulb: Notas
+- Solo en se muestran imagenes de la parte editar y borrar en el Carregistration.cs porque al final todos tienen lo mismo y se nos hacia innecesarior agregarlo.
+- No entendimos muy bien como funciona el hacer ramas hacer los cambios y reflejarlo directamnete en el git (nos estaba dando mucho problemas y no queria hacer el push) en tonces lo que hicimos fue que subimos la carpeta actualizada de nuevo (RentaCar-Copia) y para hacerla o tener participacion grupal haciamos meet semanales en el cual se decidian algunas cosas y que cambios o mejoras podiamos hacerle.
+
+## :bulb: Aporte de cada integrante
+- La parte grafica, osea el diseño de nuestro programa fue realizado por Yokasta Prensa y Pamela Villar.
+- La parte del codigo, base de dato y funcionamiento de los botones fue realizada por Marianny Montero y Fabio Armando
+- El Readme fue realizado por todos.
 
 ## Base de Datos 
 
