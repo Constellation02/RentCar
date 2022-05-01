@@ -34,6 +34,16 @@ Con este proyecto los clientes podran elegir facilmente su auto para rentarlo.
 - Windows Form.
 - Lenguaje de programacion C#.
 
+## :bulb: Pasos a seguir para que funcione
+-Tener intalado en su computadora sql server
+-Extraer la base el documuento bd_Carrental en su sql y ponerle el nombre Carrental a la base de dato
+-Despues de haber estaraido el documento RentaCar-Copia, antes de iniciarlo en su visual estudio debe ir al docuento RentaCar y a cada arcivo .rex debe de darlo un clip derecho, ir a propiedades y en la parte derecha inferior encomntrata algo llamado desbloquear.
+-dar un clip en la parte desbloquear y luego en aceptar. pd: debe hacer eso con todos los documentos .rex
+-por ultimo habrir directamente en su visual y puede utilizarlo sin problema. pd: recuerde tener la base de dato conectada.
+
+## :bulb: Nota
+Solo en se muestran imagenes de la parte editar y borrar en el Carregistration.cs porque al final todos tienen lo mismo y se nos hacia innecesarior agregarlo.
+
 ## Base de Datos 
 
 [![C0-ABF9-AE-4-D86-499-F-9-AA4-A4613-EF0-D88-C.png](https://i.postimg.cc/gk2WMqF0/C0-ABF9-AE-4-D86-499-F-9-AA4-A4613-EF0-D88-C.png)](https://postimg.cc/jCmm2fjV)
@@ -121,6 +131,7 @@ Con este proyecto los clientes podran elegir facilmente su auto para rentarlo.
 [![81-AAA859-5721-45-A7-A8-E2-91-C8-DB72-E1-B9.png](https://i.postimg.cc/KzqtLS6b/81-AAA859-5721-45-A7-A8-E2-91-C8-DB72-E1-B9.png)](https://postimg.cc/sQWBd8fH)
 
 [![3-BF3272-B-64-C2-428-B-901-B-341-EA9-E4973-E.png](https://i.postimg.cc/rpq4Pwcc/3-BF3272-B-64-C2-428-B-901-B-341-EA9-E4973-E.png)](https://postimg.cc/pm1y9xp1)
+
 
 ## Participantes        /    Matriculas
 - Marianny Isabel           **2019-8173**
