@@ -76,6 +76,8 @@ Con este proyecto los clientes podran elegir facilmente su auto para rentarlo.
 
 [![9-AD5-F1-F5-F7-E6-49-F4-BB7-C-B4-DB63-AA74-FD.png](https://i.postimg.cc/X7BpHb0q/9-AD5-F1-F5-F7-E6-49-F4-BB7-C-B4-DB63-AA74-FD.png)](https://postimg.cc/1fPmXbX1)
     
+## Customer.cs
+
 ## Participantes        /    Matriculas
 - Marianny Isabel           **2019-8173**
 - Fabio Armando             **2020-9828**
