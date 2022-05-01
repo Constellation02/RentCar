@@ -78,6 +78,14 @@ Con este proyecto los clientes podran elegir facilmente su auto para rentarlo.
     
 ## Customer.cs
 
+[![E54-BD63-D-7-DE4-49-F9-AA18-315602-F1-CD98.png](https://i.postimg.cc/6pGbpyxK/E54-BD63-D-7-DE4-49-F9-AA18-315602-F1-CD98.png)](https://postimg.cc/DSnPCfzp)
+
+[![4-BF226-BB-27-A0-49-F6-96-FA-1-A008753-DA67.png](https://i.postimg.cc/4dXWPP74/4-BF226-BB-27-A0-49-F6-96-FA-1-A008753-DA67.png)](https://postimg.cc/1gY05prb)
+
+[![6792-AC19-6-EB3-4349-B5-D7-B6277-CC341-D6.png](https://i.postimg.cc/7hWXxyBb/6792-AC19-6-EB3-4349-B5-D7-B6277-CC341-D6.png)](https://postimg.cc/LgjjTGFM)
+
+[![65-CEC0-D7-26-CC-4-A1-D-9-B99-EA463-BB9-A7-DA.png](https://i.postimg.cc/RVwgHqZL/65-CEC0-D7-26-CC-4-A1-D-9-B99-EA463-BB9-A7-DA.png)](https://postimg.cc/TpYj8dmK)
+
 ## Participantes        /    Matriculas
 - Marianny Isabel           **2019-8173**
 - Fabio Armando             **2020-9828**
