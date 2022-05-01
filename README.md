@@ -86,11 +86,31 @@ Con este proyecto los clientes podran elegir facilmente su auto para rentarlo.
 
 [![65-CEC0-D7-26-CC-4-A1-D-9-B99-EA463-BB9-A7-DA.png](https://i.postimg.cc/RVwgHqZL/65-CEC0-D7-26-CC-4-A1-D-9-B99-EA463-BB9-A7-DA.png)](https://postimg.cc/TpYj8dmK)
 
-## Form1.cs
+## Rental
 
 [![A686-DD57-73-A2-457-F-B0-F4-E5-C3763-B6-A82.png](https://i.postimg.cc/Y0ZTqP82/A686-DD57-73-A2-457-F-B0-F4-E5-C3763-B6-A82.png)](https://postimg.cc/9wPLLJvs)
 
 [![8-BF735-D1-8-D03-4-D16-BE53-3-B431260-F32-E.png](https://i.postimg.cc/MKfhrWKn/8-BF735-D1-8-D03-4-D16-BE53-3-B431260-F32-E.png)](https://postimg.cc/3d7SkQGh)
+
+## Inspection
+
+[![6-B7-A2-D57-6-E00-469-F-BC3-E-CC972-E6-E5-FD4.png](https://i.postimg.cc/Y9kWTqHM/6-B7-A2-D57-6-E00-469-F-BC3-E-CC972-E6-E5-FD4.png)](https://postimg.cc/7Csh24hW)
+
+[![BBFED749-7845-4-A62-9-F31-F40950-FB228-E.png](https://i.postimg.cc/V6RCwQfM/BBFED749-7845-4-A62-9-F31-F40950-FB228-E.png)](https://postimg.cc/YGv9NPmq)
+
+[![656-D6-DBF-B26-F-4-ECC-A8-A1-690-E4-D23-A96-A.png](https://i.postimg.cc/sxHGBYZg/656-D6-DBF-B26-F-4-ECC-A8-A1-690-E4-D23-A96-A.png)](https://postimg.cc/zHWG6Rjs)
+
+[![15-A3-D2-B6-8-DA2-412-A-9-DD4-15-D60984-A6-CA.png](https://i.postimg.cc/Fs1JMB2d/15-A3-D2-B6-8-DA2-412-A-9-DD4-15-D60984-A6-CA.png)](https://postimg.cc/0bRQmc5P)
+
+[![972-D38-C7-3753-4-B0-B-A2-F8-1-AEF890377-D4.png](https://i.postimg.cc/LskqkKZ7/972-D38-C7-3753-4-B0-B-A2-F8-1-AEF890377-D4.png)](https://postimg.cc/8F5PDY4B)
+
+[![F7076665-EBE2-461-E-8679-B56-AD1-A67-A60.png](https://i.postimg.cc/90kzXcv4/F7076665-EBE2-461-E-8679-B56-AD1-A67-A60.png)](https://postimg.cc/jnzRZYqK)
+
+[![5-E52-AF63-A9-F9-422-A-A668-77512-B738261.png](https://i.postimg.cc/JhQnDNfC/5-E52-AF63-A9-F9-422-A-A668-77512-B738261.png)](https://postimg.cc/JyGmSk7p)
+
+[![E6268337-C441-454-F-B79-C-FAE6-E7541950.png](https://i.postimg.cc/RZ5Vgp9z/E6268337-C441-454-F-B79-C-FAE6-E7541950.png)](https://postimg.cc/rKjkmJKh)
+
+[![D4823-A3-E-8-B4-F-4-C72-85-E6-3-AF8-DC9-CDE79.png](https://i.postimg.cc/QMNBqYkd/D4823-A3-E-8-B4-F-4-C72-85-E6-3-AF8-DC9-CDE79.png)](https://postimg.cc/DSDyvgM9)
 
 ## Participantes        /    Matriculas
 - Marianny Isabel           **2019-8173**
