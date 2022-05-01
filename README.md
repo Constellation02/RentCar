@@ -35,11 +35,11 @@ Con este proyecto los clientes podran elegir facilmente su auto para rentarlo.
 - Lenguaje de programacion C#.
 
 ## :bulb: Pasos a seguir para que funcione
--Tener intalado en su computadora sql server
--Extraer la base el documuento bd_Carrental en su sql y ponerle el nombre Carrental a la base de dato
--Despues de haber estaraido el documento RentaCar-Copia, antes de iniciarlo en su visual estudio debe ir al docuento RentaCar y a cada arcivo .rex debe de darlo un clip derecho, ir a propiedades y en la parte derecha inferior encomntrata algo llamado desbloquear.
--dar un clip en la parte desbloquear y luego en aceptar. pd: debe hacer eso con todos los documentos .rex
--por ultimo habrir directamente en su visual y puede utilizarlo sin problema. pd: recuerde tener la base de dato conectada.
+- Tener intalado en su computadora sql server.
+- Extraer la base el documuento bd_Carrental en su sql y ponerle el nombre Carrental a la base de dato.
+- Despues de haber estaraido el documento RentaCar-Copia, antes de iniciarlo en su visual estudio debe ir al docuento RentaCar y a cada arcivo .rex debe de darlo un clip derecho, ir a propiedades y en la parte derecha inferior encomntrata algo llamado desbloquear.
+- dar un clip en la parte desbloquear y luego en aceptar. pd: debe hacer eso con todos los documentos .rex.
+- por ultimo habrir directamente en su visual y puede utilizarlo sin problema. pd: recuerde tener la base de dato conectada.
 
 ## :bulb: Nota
 Solo en se muestran imagenes de la parte editar y borrar en el Carregistration.cs porque al final todos tienen lo mismo y se nos hacia innecesarior agregarlo.
